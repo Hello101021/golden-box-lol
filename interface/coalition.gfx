@@ -4,40 +4,4 @@ spriteTypes = {
 		name = "GFX_vanguard_socialism_coalition"
 		textureFile = "/gfx/interface/vanguard_socialism_coalition_window.dds"
 	}
-	spriteType = {
-		name = "GFX_socialism_coalition"
-		textureFile = "/gfx/interface/socialism_coalition_window.dds"
-	}
-	spriteType = {
-		name = "GFX_social_democracy_coalition"
-		textureFile = "/gfx/interface/social_democracy_coalition_window.dds"
-	}
-	spriteType = {
-		name = "GFX_social_liberalism_coalition"
-		textureFile = "/gfx/interface/social_liberalism_coalition_window.dds"
-	}
-	spriteType = {
-		name = "GFX_market_liberalism_coalition"
-		textureFile = "/gfx/interface/market_liberalism_coalition_window.dds"
-	}
-	spriteType = {
-		name = "GFX_social_conservatism_coalition"
-		textureFile = "/gfx/interface/social_conservatism_coalition_window.dds"
-	}
-	spriteType = {
-		name = "GFX_authoritarianism_coalition"
-		textureFile = "/gfx/interface/authoritarianism_coalition_window.dds"
-	}
-	spriteType = {
-		name = "GFX_autocracy_coalition"
-		textureFile = "/gfx/interface/autocracy_coalition_window.dds"
-	}
-	spriteType = {
-		name = "GFX_populism_coalition"
-		textureFile = "/gfx/interface/populism_coalition_window.dds"
-	}
-	spriteType = {
-		name = "GFX_corporatism_coalition"
-		textureFile = "/gfx/interface/corporatism_coalition_window.dds"
-	}
 }
