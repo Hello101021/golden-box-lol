@@ -1,0 +1,70 @@
+scripted_gui = {
+  coaltions = {
+    window_name = "coalition_window"
+    context_type = player_context
+    parent_window_token = politics_tab
+
+    visible = {
+		  always = no
+    }
+
+    effects = {
+    }
+
+    triggers = {
+      vanguard_socialism_coalition_visible = {
+        has_country_flag = "vanguard_socialism_in_coalition"
+      }
+      socialism_visible = {
+        has_country_flag = "socialism_in_coalition"
+      }
+      social_democracy_visible = {
+        has_country_flag = "social_democracy_in_coalition"
+      }
+      social_liberalism_visible ={
+        has_country_flag = "social_liberalism_in_coalition"
+      }
+      market_liberalism_visible = {
+        has_country_flag = "market_liberalism_in_coalition"
+      }
+      social_conservatism_visible = {
+        has_country_flag = "social_conservatism_in_coalition"
+      }
+      authoritarianism_visible = {
+        has_country_flag = "authoritarianism_in_coalition"
+      }
+      autocracy_visible = {
+        has_country_flag = "autocracy_in_coalition"
+      }
+      populism_visible = {
+        has_country_flag = "populism_in_coalition"
+      }
+      corporatism_visible = {
+        has_country_flag = "corporatism"
+      }
+    }
+
+    dynamic_lists = {
+    }
+
+    properties = {
+    }
+
+    ai_enabled = {
+		always = no
+    }
+
+    ai_test_interval = 290  # The higher, the long it takes the ai to do actions 
+    
+    ai_test_variance = 0.5
+
+    ai_check = {
+    }
+
+    ai_check_scope = {
+    }
+
+    ai_weights = {
+    }
+  }
+}
