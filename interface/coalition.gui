@@ -12,47 +12,47 @@ guiTypes = {
 		}
 		iconType ={
 			name ="socialism_coalition"
-			spriteType = "GFX_socialism_coalition"
+			spriteType = "GFX_vanguard_socialism_coalition"
 			position = { x= 417 y = 317 }
 		}
 		iconType ={
 			name ="vanguard_socialism_coalition"
-			spriteType = "GFX_social_democracy_coalition"
+			spriteType = "GFX_vanguard_socialism_coalition"
 			position = { x= 417 y = 317 }
 		}
 		iconType ={
 			name ="vanguard_socialism_coalition"
-			spriteType = "GFX_social_liberalism_coalition"
+			spriteType = "GFX_vanguard_socialism_coalition"
 			position = { x= 417 y = 317 }
 		}
 		iconType ={
 			name ="vanguard_socialism_coalition"
-			spriteType = "GFX_market_liberalism_coalition"
+			spriteType = "GFX_vanguard_socialism_coalition"
 			position = { x= 417 y = 317 }
 		}
 		iconType ={
 			name ="vanguard_socialism_coalition"
-			spriteType = "GFX_social_conservatism_coalition"
+			spriteType = "GFX_vanguard_socialism_coalition"
 			position = { x= 417 y = 317 }
 		}
 		iconType ={
 			name ="vanguard_socialism_coalition"
-			spriteType = "GFX_authoritarianism_coalition"
+			spriteType = "GFX_vanguard_socialism_coalition"
 			position = { x= 417 y = 317 }
 		}
 		iconType ={
 			name ="vanguard_socialism_coalition"
-			spriteType = "GFX_autocracy_coalition"
+			spriteType = "GFX_vanguard_socialism_coalition"
 			position = { x= 417 y = 317 }
 		}
 		iconType ={
 			name ="vanguard_socialism_coalition"
-			spriteType = "GFX_populism_coalition"
+			spriteType = "GFX_vanguard_socialism_coalition"
 			position = { x= 417 y = 317 }
 		}
 		iconType ={
 			name ="vanguard_socialism_coalition"
-			spriteType = "GFX_corporatism_coalition"
+			spriteType = "GFX_vanguard_socialism_coalition"
 			position = { x= 417 y = 317 }
 		}
 
