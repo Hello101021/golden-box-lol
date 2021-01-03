@@ -40,7 +40,7 @@ scripted_gui = {
         has_country_flag = "populism_in_coalition"
       }
       corporatism_coalition_visible = {
-        has_country_flag = "corporatism"
+        has_country_flag = "corporatism_in_coalition"
       }
     }
 
